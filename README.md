@@ -1,2 +1,2 @@
 # Java-Assignments
-Introductory CS Java assignments
+CS Java assignments
