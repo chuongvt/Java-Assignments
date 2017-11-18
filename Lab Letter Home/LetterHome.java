@@ -80,9 +80,7 @@ class LetterHome{
          }
       }
    }
-
-
-
+   
    // weatherModifier()
    // returns the correct word for a weather sentence
    static String weatherModifier(int m) {
