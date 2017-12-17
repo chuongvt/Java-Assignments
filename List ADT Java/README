@@ -1,0 +1,11 @@
+Chuong Viet Truong
+CruzID: Chvtruon
+PA 1
+
+Files:
+    - List.java: ADT module
+    - ListClient.java: Test for List.java
+    - Lex.java: Client module that takes input file,
+    sorts input into lexicographic order, and spits
+    it to the output file.
+    - README: This current file
